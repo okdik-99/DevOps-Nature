@@ -1,0 +1,27 @@
+                                  FOUNDATIONAL DEVOPS CONCEPT
+
+Before now companies ran their infrastructures and programs manually, and in so doing , all parties involved executed their functions individually with little or so collaborations as a “observe” to do tradition in their production cycle.
+This communication gap made room for issues like slow production, human errors, periodic downtimes for system conflict resolutions etc.
+With the advancement of the digital IT industry, and the ever growing need for new sign ons into the digital workspace, the deficiencies in collaborations stood as a major impediment in the delivery of IT productions. This of course gave rise to the creation of the creation of the DevOps  lifecycle, which also pulled a need for manpower to run It’s course.
+
+                                   DEFINITION OF DEVOPS 
+As the word Dev and Ops implies Development and Operations, it stands to reason that DevOps is a sandwich between developers and operation teams, having a continuous nature in its lifecycle. A structure that Automates software codes and builds them into a runtime.
+DevOps can also be seen as a framework of code management, infrastructure provisioning, automation and monitoring results in faster software deliveries.
+
+                                THE CORE PRINCIPLES OF DEVOPS
+Briefly explained;
+•	Continuous Development; in this stage, the team focuses on planning and programming the software code
+•	Continuous Integration; This has much to do with branching, where newly developed or modified softwares are grafted into an existing code or framework, otherwise named the main branch.
+•	Continuous Testing; the  validation of codes by testing remotely for conformity and adaptability
+•	Continuous Deployment; this is the release of the validated software to the production environment for streaming.
+
+                                   DEVOPS LIFECYCLE 
+In brief;
+•	Planning;  At this stage, software developers undertake to determine the needs of the public, by collaborations in the feedback process. E.g. software Application popups requesting ratings and comments.
+•	Development; this is where the code development build is initiated through the workings of the DevOps lifecycle, using collaborations between teams for efficient, effective and timely delivery.
+•	BUILD;  During this stage the Source code is packaged into programs and scripts making it deployable.
+•	TESTING; In this stage the Build is scrutinized by the use of proven software testing tools, this is a verification process to ascertain workability when deployed.
+•	RELEASE; This stage acts as the root or foundation of the “Ops” part of the production pipeline. The build being proven and set for deployment to the production systems.
+•	DEPLOYMENT; The stage where new or updated software codes  are released into production environments through Automated processes.
+•	OPERATIONS; Here the software release is accessible to the target users while the production teams relay feedback through pipeline.
+•	MONITORING; This practice ensures that the quality performance of both the Apps and the systems are properly synchronized. This practice also caters for early and timely interventions.
